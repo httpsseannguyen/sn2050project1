@@ -6,3 +6,4 @@ Here are some expectations:
 2. Inefficient algorithms
 3. Code that I used from leetcode problems that I have solved.
 4. A lot of tutorial content!!
+5. Main use of this as a learning journal for my code!
